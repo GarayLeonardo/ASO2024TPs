@@ -9,5 +9,8 @@
 - En cambio el programa cambiando la fila 11,12,19 y 20 variaba su valor en cada ejecucion.
 
 2
+- Race condition:
 https://github.com/GarayLeonardo/ASO2024TPs/blob/a2b5d3bf78a1d20cedbb1cba6be4408c0ad4c001/TP3/Inciso%202/con_race_condition.c
-TP3/Inciso 2/DIagrama de flujo.png
+
+- Diagrama de flujo:
+(https://github.com/GarayLeonardo/ASO2024TPs/blob/3e0d03652b7910716e1098c7169b30261ff95062/TP3/Inciso%202/DIagrama%20de%20flujo.png)
