@@ -9,4 +9,4 @@
 - En cambio el programa cambiando la fila 11,12,19 y 20 variaba su valor en cada ejecucion.
 
 2
-
+TP3/Inciso 2/DIagrama de flujo.png
