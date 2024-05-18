@@ -9,4 +9,5 @@
 - En cambio el programa cambiando la fila 11,12,19 y 20 variaba su valor en cada ejecucion.
 
 2
+https://github.com/GarayLeonardo/ASO2024TPs/blob/a2b5d3bf78a1d20cedbb1cba6be4408c0ad4c001/TP3/Inciso%202/con_race_condition.c
 TP3/Inciso 2/DIagrama de flujo.png
