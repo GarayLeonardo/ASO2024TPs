@@ -11,6 +11,7 @@ int turno = 0;
 
 void *comer_hamburguesa(void *tid)
 {
+
     intptr_t id = (intptr_t) tid;
     while (1 == 1)
     {
